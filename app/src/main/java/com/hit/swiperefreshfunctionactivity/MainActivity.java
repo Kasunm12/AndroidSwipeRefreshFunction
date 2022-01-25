@@ -37,3 +37,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+
+//change to build.gradle file ----> implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
